@@ -1,0 +1,274 @@
+/* Stiluri pentru tab-uri */
+.tab {
+    display: none;
+}
+/* Stiluri pentru butoanele tab */
+.tab-button {
+    background-color: #f0f0f0;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+/* Stiluri pentru tab activ */
+.active {
+    background-color: #ddd; /* culoare de fundal pentru tabul activ */
+}
+/* Stiluri pentru tabel */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+th a {
+    text-decoration: none;
+    color: black;
+}
+/* Stiluri pentru containerul butoanelor */
+.button-container {
+    margin-bottom: 20px;
+}
+
+/* styles.css */
+.container.login-container {
+    width: 300px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h2 {
+    text-align: center;
+}
+
+.login-container .form-group {
+    margin-bottom: 15px;
+}
+
+.login-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login-container input[type="text"],
+.login-container input[type="password"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-container button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-container button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.login-container #message {
+    color: red;
+    text-align: center;
+}
+
+
+
+
+/*stilizare de la inceput pana la linia 175*/
+
+/* style.css */
+
+/* Stilizează întregul body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* Stilizează titlul */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Stilizează tab-urile */
+.tab-button {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.tab-button.active {
+    background-color: #ccc;
+}
+
+/* Stilizează containerul pentru butoane */
+.button-container {
+    margin-bottom: 20px;
+}
+
+/* Stilizează butoanele */
+.button-container button {
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+/* Stilizează butoanele la hover */
+.button-container button:hover {
+    background-color: #0056b3;
+}
+
+/* Stilizează formularul */
+form {
+    max-width: 300px; /* Setează lățimea maximă a formularului */
+    margin: 1 auto; /* Centrează formularul pe pagină */
+}
+
+/* Stilizează etichetele pentru câmpurile de căutare */
+form label {
+    display: block; /* Face ca etichetele să fie afișate pe linii separate */
+    margin-bottom: 5px; /* Spațierea între etichete */
+}
+
+/* Stilizează câmpurile de căutare */
+form input[type="text"] {
+    width: calc(100% - 12px); /* Setează lățimea câmpurilor de introducere text */
+    padding: 6px; /* Setează spațiul interior */
+    border: 1px solid #ccc; /* Setează stilul bordurii */
+    border-radius: 3px; /* Setează colțurile rotunjite */
+    margin-bottom: 8px; /* Spațierea între câmpuri */
+}
+
+/* Stilizează butoanele de submit */
+form input[type="submit"] {
+    width: 100%; /* Lățimea butoanelor pe întreaga lățime a formularului */
+    padding: 8px; /* Setează spațiul interior al butoanelor */
+    background-color: #007bff; /* Setează culoarea de fundal */
+    border: none; /* Elimină border-ul */
+    color: #fff; /* Setează culoarea textului */
+    border-radius: 3px; /* Setează colțurile rotunjite */
+    cursor: pointer; /* Setează cursorul la hover */
+}
+
+/* Stilizează butoanele de submit la hover */
+form input[type="submit"]:hover {
+    background-color: #0056b3; /* Schimbă culoarea de fundal la hover */
+}
+
+/*Dimensiuni grafic comenzi*/
+#chartComenzi {
+    width: 500px; /* sau dimensiunea dorită în pixeli */
+    height: 300px; /* sau dimensiunea dorită în pixeli */
+}
+
+
+/* Stilizare pentru tabele */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 2px solid #444; /* Linii mai pronunțate pentru tabele */
+    padding: 8px;
+    text-align: left;
+}
+
+/* Fundal pentru antetul tabelului */
+th {
+    background-color: #f2f2f2;
+}
+
+/* Stilizare pentru buton */
+button {
+    background-color: #4faef3; /* Magenta închis */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 4px; /* Colțuri rotunjite */
+}
+
+/* Stilizare pentru buton la survol */
+button:hover {
+    background-color: #04ef85; /* Magenta și mai închis la survol */
+}
+
+
+
+  /* Stilizare pentru tabel */
+.search-results-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* Stilizare pentru antetul tabelului */
+.search-results-table th {
+    background-color: #e9c7c7;
+    padding: 10px;
+}
+
+/* Stilizare pentru celulele tabelului */
+.search-results-table td {
+    padding: 10px;
+    background-color: #9bef2d; /* Culoare de fundal diferită */
+}
+
+
+/* Stilizare pentru containerul imaginii */
+.image-container {
+    position: absolute; /* Containerul rămâne fix pe ecran, relativ la primul părinte cu poziționare relativă sau absolută */
+    bottom: 10px; /* Poziționează containerul la 20px distanță de la marginea de jos a primului părinte cu poziționare relativă sau absolută */
+    right: 20px; /* Poziționează containerul la 20px distanță de la marginea dreaptă a primului părinte cu poziționare relativă sau absolută */
+    z-index: -1; /* Plasează containerul în spatele conținutului */
+    width: 1000px; /* Lățimea containerului imaginii */
+}
+
+/* Stilizare pentru imagine */
+.image-container img {
+    width: 100%; /* Asigură că imaginea ocupă întreaga lățime a containerului */
+    height: auto; /* Menține proporțiile imaginii */
+}
+

@@ -1,0 +1,63 @@
+ID_EVALUARE,ID_CLIENT,SCOR,FEEDBACK,DATA_EVALUARII
+7,11,3,"Am fost multumita",13-DEC-23
+6,10,2,"Servicii proaste",12-DEC-20
+4,10,3,"Un produs raport calitate-pret",10-OCT-23
+8,10,4,Recomand!,19-OCT-21
+5,10,5,"Serviciu excelent!",15-JAN-22
+1,15,4,"Personal amabil ¿i profesionist.",02-FEB-22
+2,8,5,"Produs de calitate, dar livrarea a durat prea mult.",10-MAR-22
+3,12,4,"Recomand cu încredere!",25-APR-22
+9,5,3,"Pre¿ competitiv, dar ambalarea poate fi îmbunata¿ita.",18-MAY-22
+10,20,2,"Produsul a avut defecte, nu sunt mul¿umit.",05-JUL-22
+11,14,5,"Serviciu excelent, livrare rapida!",20-AUG-22
+12,11,3,"Produsul a fost în regula, dar pre¿ul putea fi mai bun.",15-SEP-22
+13,18,1,"Calitate proasta, nu recomand.",01-OCT-22
+14,22,4,"Produs de calitate, dar ambalajul a fost deteriorat la livrare.",12-NOV-22
+15,9,2,"Livrarea a întârziat ¿i nu am fost mul¿umit de serviciu.",05-DEC-22
+16,16,5,"Serviciu de excep¿ie, livrare prompta ¿i produs de calitate!",20-JAN-23
+17,13,3,"Produsul a fost OK, dar am avut unele probleme la retur.",15-FEB-23
+18,25,1,"Serviciu dezamagitor, produsul a fost defect.",01-MAR-23
+19,8,4,"Serviciu prompt ¿i produs de calitate.",10-APR-23
+20,17,2,"Nu am fost mul¿umit de produs, a venit cu defecte.",05-MAY-23
+21,10,5,"Experien¿a excelenta, produsul a depa¿it a¿teptarile.",20-JUN-23
+22,14,3,"Calitatea produsului a fost medie, dar serviciul a fost bun.",15-JUL-23
+23,23,1,"Produsul a fost defect ¿i nu am primit niciun raspuns de la suportul clien¿i.",01-AUG-23
+24,19,4,"Serviciu bun, livrare la timp.",10-SEP-23
+25,12,2,"Produsul nu a fost la fel ca în descriere.",05-OCT-23
+26,15,5,"Experien¿a excelenta, produsul a fost exact ce ma a¿teptam.",20-NOV-23
+27,18,3,"Produsul a avut o calitate acceptabila, dar a durat mult pâna a fost livrat.",15-DEC-23
+28,21,1,"Serviciu slab, nu recomand.",01-JAN-24
+29,24,4,"Produs excelent, livrare rapida.",10-FEB-24
+30,11,2,"Calitatea produsului nu a fost la fel ca în poze.",05-MAR-24
+31,26,5,"Foarte mul¿umit, produsul a fost exact ceea ce cautam.",20-APR-24
+32,16,3,"Produs bun, dar ambalajul a fost deteriorat.",15-MAY-24
+33,29,1,"Serviciu dezamagitor, produsul a fost defect.",01-JUN-24
+34,20,4,"Serviciu impecabil, produsul a fost bine ambalat.",10-JUL-24
+35,13,2,"Nu am fost impresionat de calitatea produsului.",05-AUG-24
+36,23,5,"Produsul a fost excelent, ¿i livrarea a fost rapida.",20-SEP-24
+37,17,3,"Calitatea a fost în regula, dar serviciul ar putea fi îmbunata¿it.",15-OCT-24
+38,30,1,"Experien¿a dezamagitoare, nu recomand.",01-NOV-24
+39,25,4,"Serviciu bun ¿i produs de calitate.",10-DEC-24
+40,19,2,"Am întâmpinat probleme cu livrarea, altfel produsul era ok.",05-JAN-25
+41,27,5,"Produsul a fost exact ce mi-am dorit, mul¿umit de serviciu.",20-FEB-25
+42,22,3,"Nu am fost complet satisfacut de produs, dar a fost livrat la timp.",15-MAR-25
+43,31,1,"Experien¿a foarte proasta, produsul a fost defect.",01-APR-25
+44,28,4,"Produs de calitate ¿i livrare prompta.",10-MAY-25
+45,21,2,"Am întâmpinat dificulta¿i cu returul, altfel totul a fost ok.",05-JUN-25
+46,29,5,"Serviciu excelent ¿i produs de calitate superioara.",20-JUL-25
+47,24,3,"Calitatea produsului a fost medie, dar livrarea a fost rapida.",15-AUG-25
+48,32,1,"Nemul¿umit de produs, a fost diferit fa¿a de descriere.",01-SEP-25
+49,26,4,"Produsul a fost de calitate ¿i a ajuns la timp.",10-OCT-25
+50,23,2,"Nu am fost mul¿umit de serviciu, produsul a întârziat.",05-NOV-25
+51,33,5,"Experien¿a excelenta, produsul a fost exact ce am comandat.",20-DEC-25
+52,27,3,"Produsul a fost acceptabil, dar ambalajul a fost deteriorat.",15-JAN-26
+53,31,1,"Serviciu foarte slab, produsul a fost defect.",01-FEB-26
+54,30,4,"Serviciu bun ¿i produs de calitate.",10-MAR-26
+55,25,2,"Calitatea a fost sub a¿teptari, dar livrarea a fost rapida.",05-APR-26
+57,29,3,"Produsul a fost OK, dar ambalajul nu a fost bun.",15-JUN-26
+56,15,5,"Experien¿a excelenta, produs de calitate superioara.",20-MAY-26
+59,31,4,"Serviciu prompt ¿i produs de calitate.",10-AUG-26
+60,28,2,"Calitatea produsului nu a fost la fel ca în descriere.",05-SEP-26
+62,32,3,"Produsul a fost bun, dar a durat mult pâna la livrare.",15-NOV-26
+61,14,5,"Produs excelent, serviciu de calitate.",20-OCT-26
+58,23,1,"Nemul¿umit de produs, a venit cu defecte.",01-JUL-26
